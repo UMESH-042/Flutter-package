@@ -1,0 +1,17 @@
+# Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.flutter-*
+Generated.xcconfig
+.idea/
+
+# Others
+*.iml
+*.log
